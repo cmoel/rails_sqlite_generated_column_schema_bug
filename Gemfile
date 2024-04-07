@@ -27,3 +27,5 @@ group :development do
   # gem "spring"
 end
 
+
+gem "activerecord-enhancedsqlite3-adapter", "~> 0.5.0"
